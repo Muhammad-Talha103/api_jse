@@ -1,0 +1,10 @@
+# Ignore config with secrets
+config.py
+
+# Ignore user data file
+users.json
+
+# Ignore Python cache folders
+__pycache__/
+*.pyc
+venv/
